@@ -126,6 +126,6 @@ The **Business Insight 360** dashboard provides a powerful, intuitive interface 
 
 ## 📬 Contact
 
-For queries, feedback, or collaborations, please connect via [LinkedIn](#) or [email@example.com](mailto:email@example.com).
+For queries, feedback, or collaborations, please connect via [LinkedIn](#) or [email@example.com](ravitejabikkili@example.com).
 
 ---
